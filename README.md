@@ -1,1 +1,0 @@
-Hey all ! My self Yogesh and this is my personal portfoloio.
