@@ -45,6 +45,9 @@ hr {
 .navigation-bar .link-active {
     font-weight: bold;
 }
+.link-nav:hover {
+    border-bottom: 3px solid white;
+}
 
 /******HEADER************/
 .header {
@@ -72,7 +75,7 @@ hr {
     padding: 2rem;
 }
 .colored{
-    background-color: #A7F3D0;
+    background-color: #D1FAE5;
 }
  .section-container {
     max-width: 600px;
@@ -93,6 +96,10 @@ hr {
     text-decoration: none;
     padding: 0.5rem 1rem;
    /* text-align: center;*/
+}
+.link:hover {
+    background-color: #059669;
+    box-shadow: #34D399;
 }
 
  .link-primary {
@@ -146,6 +153,11 @@ hr {
     color: black;
   
 }
+.footer .foot-link:hover {
+    color: white;
+    border-bottom: white;
+    
+}
 
 
 /*******project page******/
@@ -157,3 +169,4 @@ hr {
     display: inline-block;
    
 }
+/******blog page*********/
