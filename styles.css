@@ -162,9 +162,26 @@ hr {
     color: black;
   
 }
-.footer .foot-link:hover {
+/*.fa {  
+    width: 50px;
+    padding: 20px;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
     color: white;
-    border-bottom: white;
+    border-radius: 50%; 
+  }
+
+  .fa:hover {
+      opacity: 0.7;
+  }
+  .fa-github {
+    background: #000000;
+  }*/
+.footer .foot-link:hover {
+    color: rgb(35, 134, 87);
+    border-bottom: 3px solid white;
     
 }
 
